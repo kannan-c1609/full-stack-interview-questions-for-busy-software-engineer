@@ -1,4 +1,4 @@
-  # MEEN Stack Interview Questions
+  # MERN Stack Interview Questions
   
    ### What is MERN stack?
     
